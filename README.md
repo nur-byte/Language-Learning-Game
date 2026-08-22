@@ -1,0 +1,2 @@
+# Language-Learning-Game
+Unity ve C# ile geliştirilmiş; İngilizce, Arapça ve Almanca kelime/cümle öğrenimini destekleyen 7 seviyeli dil eğitimi oyunu.  //  A 7-level language learning game built with Unity &amp; C# supporting English, Arabic, and German vocabulary/phrase practice.
